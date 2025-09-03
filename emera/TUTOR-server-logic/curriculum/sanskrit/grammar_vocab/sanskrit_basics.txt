@@ -1,0 +1,30 @@
+Sanskrit Grammar Basics
+
+Sanskrit is an ancient Indo-Aryan language with a rich grammatical tradition. Here are the fundamental concepts:
+
+1. Sandhi (Combination Rules)
+Sandhi refers to the phonetic changes that occur when words are combined. For example:
+- a + a = ā (long a)
+- a + i = e
+- a + u = o
+
+2. Verb Conjugation
+Sanskrit verbs have three persons (first, second, third), three numbers (singular, dual, plural), and various tenses and moods.
+
+3. Noun Declension
+Sanskrit nouns decline in eight cases: nominative, accusative, instrumental, dative, ablative, genitive, locative, and vocative.
+
+4. Common Sanskrit Words
+- namaste = hello/greetings
+- dharma = duty/righteousness
+- karma = action/deed
+- moksha = liberation
+- atman = soul/self
+- brahman = ultimate reality
+
+5. Basic Phrases
+- "Namaste" = Hello
+- "Dhanyavaad" = Thank you
+- "Kshama karein" = Please forgive me
+- "Aham" = I
+- "Tvam" = You 

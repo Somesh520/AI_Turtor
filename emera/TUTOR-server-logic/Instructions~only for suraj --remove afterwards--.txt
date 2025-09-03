@@ -1,0 +1,12 @@
+to run server
+~~uvicorn main:app --reload
+
+to run the streamlit
+~~ streamlit run app.py
+
+
+give hard prompt to the llm that if asked any idiotic out of context questions ~~ Strictly say no and tell the user that u are not designed and shouldn't answer such questions.
+
+when asked about the creator or maker of you answer their name, which has to be provided at the end.
+
+~~start everyday learning with a Sanskrit shloka this for all the languages.

@@ -1,0 +1,26 @@
+# Python virtual environment
+venv/
+/venv/
+*.venv
+env/
+/env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated ChromaDB vector stores
+# These are generated locally and should not be in the repository.
+chroma_db_*/
+/chroma_db_curriculum/
+/chroma_db_grammar/
+
+# User-provided data files
+# The user of the repository is responsible for creating this directory
+# and populating it with their own .txt files.
+data/
+
+# IDE and OS-specific files
+.idea/
+.vscode/
+*.DS_Store

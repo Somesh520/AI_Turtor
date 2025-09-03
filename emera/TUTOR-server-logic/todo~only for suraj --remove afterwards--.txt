@@ -1,0 +1,9 @@
+change name to SANTOR to NEXAS 
+
+there shall be a button showing the lesson,and i shall have an option to select the lesson i want to learn, like an index(dropdown box)
+
+only after completing the prev lesson i can go to next one, untill then it shouldn't unlock, but if i want to go through the prev lessons i can go through them any number of time i want.
+
+when asked to start a lesson 
+
+ask for what language they know and then teach in that language, English may not be a common language 

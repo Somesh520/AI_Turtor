@@ -1,0 +1,24 @@
+# Web Framework for the API Backend
+fastapi
+uvicorn
+
+# For making HTTP requests from the Frontend to the Backend
+requests
+
+# Core Streamlit library for the Frontend UI
+streamlit
+
+# Core LangChain libraries for the Agent Logic
+langchain-core
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+
+# Google Gemini API
+google-generativeai
+
+# Environment variable management
+python-dotenv
+
+# Pydantic is used by FastAPI for data validation
+pydantic
